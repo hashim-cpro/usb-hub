@@ -55,3 +55,7 @@ The case is designed in Shapr 3d and is supposed to be glued together with super
 - [Gerbers](Production/Gerber_PCB1_2026-07-19.zip) are present in the Production folder. You can use them to order the PCB from any PCB manufacturer.
 - [CAD Files](CAD/) contains the [fully assembled case design file](CAD/Usb%20hub%20assembled.step) and the [Bottom](CAD/Bottom%20Case.step) and [Top](CAD/Top%20Case.step) case design files in step format.
   - It also contains the 3mF printable files for the [Top](CAD/Top%20Case.3mf) and [Bottom](CAD/Bottom%20Case.3mf) case.
+
+## Ai Usage Declaration
+
+Copilot agent was used to generate the BOM table from the [BOM.xlx](BOM.xls). That file was changed a couple of times so the same table was generated again with copilot agent. some formatting in the readme and journal was also done with it's help.
